@@ -1,4 +1,4 @@
-# COM774MLOps
+# MLOps
 
 <i>Logging into Azure</i>
 1. Open Windows Powershell
